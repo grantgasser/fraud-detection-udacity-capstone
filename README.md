@@ -4,6 +4,6 @@ Predicting fraudulent transactions. Udacity Machine Learning Engineer Capstone p
 
 **Main Submission File:** `fraud-detection.ipynb`
 
-**Project Report File:** `Capstone Report.docx`
+**Project Report File:** `Capstone Report.pdf`
 
 [**Project Link**](https://www.kaggle.com/grantgasser/fraud-detection)
