@@ -7,3 +7,6 @@ Predicting fraudulent transactions. Udacity Machine Learning Engineer Capstone p
 **Project Report File:** `Capstone Report.pdf`
 
 [**Project Link**](https://www.kaggle.com/grantgasser/fraud-detection)
+
+## Results
+`.9392` AUC, top 45% of public leaderboard
