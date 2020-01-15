@@ -1,5 +1,5 @@
 ## Summary: Fraud Detection (E-Commerce Transactions)
-Predicting fraudulent transactions. Udacity Machine Learning Engineer Capstone project and [Kaggle Competition](https://www.kaggle.com/c/ieee-fraud-detection/overview).
+Predicting fraudulent transactions. Udacity Machine Learning Engineer Capstone project and [Kaggle Competition].(https://www.kaggle.com/c/ieee-fraud-detection/overview).
 
 **Project Report File:** `Capstone Report.pdf`
 
